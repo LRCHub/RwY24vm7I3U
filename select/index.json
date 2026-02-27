@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Goodbye",
+  "base_artist": "SUPER BEAVER",
+  "createdAt": "2026-02-27T02:50:49.556278Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Good With Goodbye",
+      "artist": "John Morgan",
+      "has_synced": true,
+      "path": "select/01_Good_With_Goodbye_John_Morgan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kiss Tomorrow Goodbye",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/02_Kiss_Tomorrow_Goodbye_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Sound of Your Goodbye (Sticks and Stones)",
+      "artist": "Aaron Tippin",
+      "has_synced": true,
+      "path": "select/03_The_Sound_of_Your_Goodbye_(Sticks_and_Stones)_Aaron_Tippin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Bad Goodbye",
+      "artist": "Clint Black with Wynonna",
+      "has_synced": false,
+      "path": "select/04_A_Bad_Goodbye_Clint_Black_with_Wynonna.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Almost Goodbye",
+      "artist": "Mark Chesnutt",
+      "has_synced": true,
+      "path": "select/05_Almost_Goodbye_Mark_Chesnutt.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Almost Goodbye (Album Version)",
+      "artist": "Mark Chesnutt",
+      "has_synced": true,
+      "path": "select/06_Almost_Goodbye_(Album_Version)_Mark_Chesnutt.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Baby's Gotten Good At Goodbye",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/07_Baby's_Gotten_Good_At_Goodbye_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Baby's Gotten Good At Goodbye (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/08_Baby's_Gotten_Good_At_Goodbye_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Baby's Gotten Good At Goodbye (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/09_Baby's_Gotten_Good_At_Goodbye_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Baby's Gotten Good At Goodbye - Edit",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/10_Baby's_Gotten_Good_At_Goodbye_-_Edit_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Drinkin' My Baby Goodbye",
+      "artist": "Charlie Daniels",
+      "has_synced": true,
+      "path": "select/11_Drinkin'_My_Baby_Goodbye_Charlie_Daniels.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Drinkin' My Baby Goodbye (Album Version)",
+      "artist": "Charlie Daniels",
+      "has_synced": true,
+      "path": "select/12_Drinkin'_My_Baby_Goodbye_(Album_Version)_Charlie_Daniels.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Goodbye - Acoustic Mixtape",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/13_Goodbye_-_Acoustic_Mixtape_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Goodbye Earl",
+      "artist": "The Chicks",
+      "has_synced": true,
+      "path": "select/14_Goodbye_Earl_The_Chicks.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Goodbye Earl (Album Version)",
+      "artist": "The Chicks",
+      "has_synced": true,
+      "path": "select/15_Goodbye_Earl_(Album_Version)_The_Chicks.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Goodbye Says It All",
+      "artist": "BlackHawk",
+      "has_synced": true,
+      "path": "select/16_Goodbye_Says_It_All_BlackHawk.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Goodbye Says It All",
+      "artist": "BlackHawk",
+      "has_synced": true,
+      "path": "select/17_Goodbye_Says_It_All_BlackHawk.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Goodbye",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_01_Goodbye_SUPER_BEAVER.txt"
+    }
+  ]
+}
